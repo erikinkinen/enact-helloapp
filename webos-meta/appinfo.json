@@ -1,0 +1,10 @@
+{
+	"id": "helloapp",
+	"version": "1.0.0",
+	"vendor": "Erik Inkinen",
+	"type": "web",
+	"main": "index.html",
+	"title": "Hello",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
